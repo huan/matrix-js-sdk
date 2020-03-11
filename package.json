@@ -54,7 +54,7 @@
     "content-type": "^1.0.2",
     "loglevel": "^1.6.4",
     "qs": "^6.5.2",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "unhomoglyph": "^1.0.2"
   },
   "devDependencies": {
